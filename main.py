@@ -1,7 +1,5 @@
 
-"""
-Trains a PyTorch image classification model using device-agnostic code.
-"""
+
 import os
 import argparse
 import torch
